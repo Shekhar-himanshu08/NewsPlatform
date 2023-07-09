@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_app_icon.jpg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\app_icon.jpg"
+    },
+    {
+        "merged": "com.example.newsplatform.app-merged_res-52:/layout_item_news.xml.flat",
+        "source": "com.example.newsplatform.app-main-54:/layout/item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\layout_item_news.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_search_back2.jpeg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\search_back2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_texture_back.jpeg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\texture_back.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_img.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_search_back.jpeg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\search_back.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_sigin_back5.jpg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\sigin_back5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_sigin_back4.jpg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\sigin_back4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_sigin_back3.jpeg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\sigin_back3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_sigin_back2.jpeg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\sigin_back2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\drawable_signin_back.jpeg.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\drawable\\signin_back.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\divya\\.gradle\\daemon\\7.5\\com.example.newsplatform.app-main-54:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    }
+]

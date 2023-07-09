@@ -1,0 +1,757 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\divya\.gradle\caches\transforms-3\a5ea941d486705a750b5a99827e75b76\transformed\recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\1829e65272ddae8c135a9f06b1e28570\transformed\navigation-ui-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\72bd4fed4922a83b24ebcaa3342e75be\transformed\navigation-ui-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\divya\.gradle\caches\transforms-3\1b40618f6d49877833fd1e22220d4471\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\divya\.gradle\caches\transforms-3\33494bed3096411e2c6347cf8edb49f6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\divya\.gradle\caches\transforms-3\5286d1ff4694f0c912be5d6bf4fa14c0\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\divya\.gradle\caches\transforms-3\3c974efbe7f7beff4743d629efaeddad\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\01e3dfdb62e296f9caeb75f39659d9dd\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\af8769c13ccb4c11c94aebacb54bc408\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\dc8e9594a4117e587b85a2c99d6927c3\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\divya\.gradle\caches\transforms-3\23b86efa86f603e3a577bf27beb662e5\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\divya\.gradle\caches\transforms-3\3b1b708c311a2162db1e72a8d6ad9494\transformed\play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\divya\.gradle\caches\transforms-3\b71a4cf304b81753977dfef67ec0543e\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\db441b9ebf4f65e0425a1e81ab95956a\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\divya\.gradle\caches\transforms-3\50e976adbd7ad732abb47576fcfe58db\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\03440f6dac917ceaad7f447494cc1c89\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\caf677bea9c6031ee33926e84e4e9904\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\divya\.gradle\caches\transforms-3\601ed1a25110208dfaad4fed07d0fef9\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\divya\.gradle\caches\transforms-3\5489aa5ea32adf8c3db4dc1ba10076dc\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\4956c36245357c5430f97ba5839e8faa\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\b705ef323ed73cbb1e2b0e0d2d7608e6\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9a709b5b4b913050807f6dbd09a4fd1f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\divya\.gradle\caches\transforms-3\5e3a147761ef430273b8054249cd04a3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\divya\.gradle\caches\transforms-3\2910ae37683566244304ccd145b0f55c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\df5cd48c4c19d68fc5bcb39ba9d62656\transformed\navigation-fragment-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\4fb4d95a8d5494953492d61b68e516b2\transformed\navigation-fragment-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\bf63445c4458d7bfa9704475c42afd65\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\3d57d30555c2e2ed604a6c37cfa06aed\transformed\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\3385c968342acc8544aa3c36f2f3d0af\transformed\navigation-runtime-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\e7eb54c31217c1221fe4e8d116eda5ed\transformed\navigation-runtime-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\divya\.gradle\caches\transforms-3\4a95c7763874dfbe258d076d182d492c\transformed\activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\divya\.gradle\caches\transforms-3\ac3c8c7c83ab071abd3fb8d7cef10fd5\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\8a0af16ef962e27168ee8acf3543eb5b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\8f810f312fc21b0d681425c670e4f349\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\b235a1fcd8ca400d2cd162197b38c34e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\e571a27c08c49b092126dadb929440d7\transformed\navigation-common-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\44787e8f000ddaeebf7941295f5c364b\transformed\navigation-common-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\2a31794af5843e881d28182695e14061\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\33cb535316e9771d170262064ca47b65\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\2439750add3a364359be84f1bae89cc6\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\e169bfd37fbd37229b637781b82448b3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\6285c47098842756e0dfa1a09d5c4803\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\divya\.gradle\caches\transforms-3\8812b6e5026a50ca0456fcceb3b5ae47\transformed\recyclerview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\divya\.gradle\caches\transforms-3\196371dc27104a70095b580187efdc75\transformed\browser-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\1f8bdb0cb384620f178f760cb8a1b734\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\1494b420f08e028d82faecdc3e54464e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\11e6763d855ea113a94cb61ec64dadc5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\68cc32098dbbdb9f4dc6684bbcea6288\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\30a0adef799ec6ba5428fbc5a1704dfc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\626b3230835e0af0b4edbb5f5cb2385e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\ad57daf120b21b07fb8b3fb05f99390b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\925e79b8a2a665b7ccfc977801e0807e\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\285bd38a18d0d25a1c639a414b959029\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\8ece757a6792c77229d47eb8442f2e2c\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\divya\.gradle\caches\transforms-3\d94dd82e0b242407f63ae8c6d1cceeaf\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\9bbdb7be409d1978acd6f4c567be0f87\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\dfd97f5956e1c6dd830d7d50e76c530a\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\divya\.gradle\caches\transforms-3\7e7a67c122cb1b5429a0d3f489a7f6f0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\ebdfdfd01a0728f5d853117da0482549\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\ffed7d58ae27d5bd21c48d3dcb7da873\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\046a40bdc71e55b9f2e8b060bbb8d1b8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\divya\.gradle\caches\transforms-3\b069f3a41b20eb8df370a8162656eb64\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\fb6141453cad82db28b75a661bb4b90f\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\divya\.gradle\caches\transforms-3\602dcd6aa6c8e5ab3be279103a0b1b86\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\25a964044c7c70d19251f6aa03276cdc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\6d30b203bf43f730774d3566aca543cb\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\d5c54bc7d1d64fadf73a91c4e08b401a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\17e7f8acd0cdf5808b682f61e60b47d6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\df27f5cc982dffdcb2943c11b404ee00\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\divya\.gradle\caches\transforms-3\9d43826721d3dfe00cc04ff2f307615c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\divya\.gradle\caches\transforms-3\205b34abde06a8094622335ee81c30ec\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\4828cd4ce008a8538823ecb989c85907\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\divya\.gradle\caches\transforms-3\c0476908161d84701517d296fd794cce\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\a5bbd47b77a09c974661eec75115b594\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\2d4b662368b383316e16208711956a86\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\divya\.gradle\caches\transforms-3\adca9536d5840f50ab36bbe837512d2c\transformed\grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\65f6192325b83c0c4998ce4dc8d70469\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\divya\.gradle\caches\transforms-3\1b40618f6d49877833fd1e22220d4471\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\divya\.gradle\caches\transforms-3\1b40618f6d49877833fd1e22220d4471\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\divya\.gradle\caches\transforms-3\33494bed3096411e2c6347cf8edb49f6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\divya\.gradle\caches\transforms-3\33494bed3096411e2c6347cf8edb49f6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\01e3dfdb62e296f9caeb75f39659d9dd\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\01e3dfdb62e296f9caeb75f39659d9dd\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\divya\.gradle\caches\transforms-3\3b1b708c311a2162db1e72a8d6ad9494\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\divya\.gradle\caches\transforms-3\3b1b708c311a2162db1e72a8d6ad9494\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\divya\.gradle\caches\transforms-3\b71a4cf304b81753977dfef67ec0543e\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\divya\.gradle\caches\transforms-3\b71a4cf304b81753977dfef67ec0543e\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\divya\.gradle\caches\transforms-3\50e976adbd7ad732abb47576fcfe58db\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\divya\.gradle\caches\transforms-3\50e976adbd7ad732abb47576fcfe58db\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\03440f6dac917ceaad7f447494cc1c89\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\03440f6dac917ceaad7f447494cc1c89\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\caf677bea9c6031ee33926e84e4e9904\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\caf677bea9c6031ee33926e84e4e9904\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\divya\.gradle\caches\transforms-3\5489aa5ea32adf8c3db4dc1ba10076dc\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\divya\.gradle\caches\transforms-3\5489aa5ea32adf8c3db4dc1ba10076dc\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\4956c36245357c5430f97ba5839e8faa\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\4956c36245357c5430f97ba5839e8faa\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\b705ef323ed73cbb1e2b0e0d2d7608e6\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\b705ef323ed73cbb1e2b0e0d2d7608e6\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9a709b5b4b913050807f6dbd09a4fd1f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9a709b5b4b913050807f6dbd09a4fd1f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\divya\.gradle\caches\transforms-3\5e3a147761ef430273b8054249cd04a3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\divya\.gradle\caches\transforms-3\5e3a147761ef430273b8054249cd04a3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\divya\.gradle\caches\transforms-3\2910ae37683566244304ccd145b0f55c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\divya\.gradle\caches\transforms-3\2910ae37683566244304ccd145b0f55c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\fb6141453cad82db28b75a661bb4b90f\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\fb6141453cad82db28b75a661bb4b90f\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\25a964044c7c70d19251f6aa03276cdc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\25a964044c7c70d19251f6aa03276cdc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\d5c54bc7d1d64fadf73a91c4e08b401a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\d5c54bc7d1d64fadf73a91c4e08b401a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:12:9-50
+	android:dataExtractionRules
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.newsplatform.SignInActivity
+ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:15:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.newsplatform.MainActivity
+ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:23:9-26:20
+	android:exported
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:24:13-41
+uses-sdk
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\divya\.gradle\caches\transforms-3\a5ea941d486705a750b5a99827e75b76\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\divya\.gradle\caches\transforms-3\a5ea941d486705a750b5a99827e75b76\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\1829e65272ddae8c135a9f06b1e28570\transformed\navigation-ui-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\1829e65272ddae8c135a9f06b1e28570\transformed\navigation-ui-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\72bd4fed4922a83b24ebcaa3342e75be\transformed\navigation-ui-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\72bd4fed4922a83b24ebcaa3342e75be\transformed\navigation-ui-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\divya\.gradle\caches\transforms-3\1b40618f6d49877833fd1e22220d4471\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\divya\.gradle\caches\transforms-3\1b40618f6d49877833fd1e22220d4471\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\divya\.gradle\caches\transforms-3\33494bed3096411e2c6347cf8edb49f6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\divya\.gradle\caches\transforms-3\33494bed3096411e2c6347cf8edb49f6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\divya\.gradle\caches\transforms-3\5286d1ff4694f0c912be5d6bf4fa14c0\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\divya\.gradle\caches\transforms-3\5286d1ff4694f0c912be5d6bf4fa14c0\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\divya\.gradle\caches\transforms-3\3c974efbe7f7beff4743d629efaeddad\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\divya\.gradle\caches\transforms-3\3c974efbe7f7beff4743d629efaeddad\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\01e3dfdb62e296f9caeb75f39659d9dd\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\01e3dfdb62e296f9caeb75f39659d9dd\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\af8769c13ccb4c11c94aebacb54bc408\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\af8769c13ccb4c11c94aebacb54bc408\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\dc8e9594a4117e587b85a2c99d6927c3\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\dc8e9594a4117e587b85a2c99d6927c3\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\divya\.gradle\caches\transforms-3\23b86efa86f603e3a577bf27beb662e5\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\divya\.gradle\caches\transforms-3\23b86efa86f603e3a577bf27beb662e5\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\divya\.gradle\caches\transforms-3\3b1b708c311a2162db1e72a8d6ad9494\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\divya\.gradle\caches\transforms-3\3b1b708c311a2162db1e72a8d6ad9494\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\divya\.gradle\caches\transforms-3\b71a4cf304b81753977dfef67ec0543e\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\divya\.gradle\caches\transforms-3\b71a4cf304b81753977dfef67ec0543e\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\db441b9ebf4f65e0425a1e81ab95956a\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\db441b9ebf4f65e0425a1e81ab95956a\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\divya\.gradle\caches\transforms-3\50e976adbd7ad732abb47576fcfe58db\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\divya\.gradle\caches\transforms-3\50e976adbd7ad732abb47576fcfe58db\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\03440f6dac917ceaad7f447494cc1c89\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\03440f6dac917ceaad7f447494cc1c89\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\caf677bea9c6031ee33926e84e4e9904\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\caf677bea9c6031ee33926e84e4e9904\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\divya\.gradle\caches\transforms-3\601ed1a25110208dfaad4fed07d0fef9\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\divya\.gradle\caches\transforms-3\601ed1a25110208dfaad4fed07d0fef9\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\divya\.gradle\caches\transforms-3\5489aa5ea32adf8c3db4dc1ba10076dc\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\divya\.gradle\caches\transforms-3\5489aa5ea32adf8c3db4dc1ba10076dc\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\4956c36245357c5430f97ba5839e8faa\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\4956c36245357c5430f97ba5839e8faa\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\b705ef323ed73cbb1e2b0e0d2d7608e6\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\b705ef323ed73cbb1e2b0e0d2d7608e6\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9a709b5b4b913050807f6dbd09a4fd1f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9a709b5b4b913050807f6dbd09a4fd1f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\divya\.gradle\caches\transforms-3\5e3a147761ef430273b8054249cd04a3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\divya\.gradle\caches\transforms-3\5e3a147761ef430273b8054249cd04a3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\divya\.gradle\caches\transforms-3\2910ae37683566244304ccd145b0f55c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\divya\.gradle\caches\transforms-3\2910ae37683566244304ccd145b0f55c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\df5cd48c4c19d68fc5bcb39ba9d62656\transformed\navigation-fragment-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\df5cd48c4c19d68fc5bcb39ba9d62656\transformed\navigation-fragment-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\4fb4d95a8d5494953492d61b68e516b2\transformed\navigation-fragment-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\4fb4d95a8d5494953492d61b68e516b2\transformed\navigation-fragment-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\bf63445c4458d7bfa9704475c42afd65\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\bf63445c4458d7bfa9704475c42afd65\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\3d57d30555c2e2ed604a6c37cfa06aed\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\3d57d30555c2e2ed604a6c37cfa06aed\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\3385c968342acc8544aa3c36f2f3d0af\transformed\navigation-runtime-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\3385c968342acc8544aa3c36f2f3d0af\transformed\navigation-runtime-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\e7eb54c31217c1221fe4e8d116eda5ed\transformed\navigation-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\e7eb54c31217c1221fe4e8d116eda5ed\transformed\navigation-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\divya\.gradle\caches\transforms-3\4a95c7763874dfbe258d076d182d492c\transformed\activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\divya\.gradle\caches\transforms-3\4a95c7763874dfbe258d076d182d492c\transformed\activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\divya\.gradle\caches\transforms-3\ac3c8c7c83ab071abd3fb8d7cef10fd5\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\divya\.gradle\caches\transforms-3\ac3c8c7c83ab071abd3fb8d7cef10fd5\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\8a0af16ef962e27168ee8acf3543eb5b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\8a0af16ef962e27168ee8acf3543eb5b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\8f810f312fc21b0d681425c670e4f349\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\8f810f312fc21b0d681425c670e4f349\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\b235a1fcd8ca400d2cd162197b38c34e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\b235a1fcd8ca400d2cd162197b38c34e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\e571a27c08c49b092126dadb929440d7\transformed\navigation-common-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\e571a27c08c49b092126dadb929440d7\transformed\navigation-common-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\44787e8f000ddaeebf7941295f5c364b\transformed\navigation-common-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\44787e8f000ddaeebf7941295f5c364b\transformed\navigation-common-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\2a31794af5843e881d28182695e14061\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\2a31794af5843e881d28182695e14061\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\33cb535316e9771d170262064ca47b65\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\33cb535316e9771d170262064ca47b65\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\2439750add3a364359be84f1bae89cc6\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\2439750add3a364359be84f1bae89cc6\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\e169bfd37fbd37229b637781b82448b3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\e169bfd37fbd37229b637781b82448b3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\6285c47098842756e0dfa1a09d5c4803\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\6285c47098842756e0dfa1a09d5c4803\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\divya\.gradle\caches\transforms-3\8812b6e5026a50ca0456fcceb3b5ae47\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\divya\.gradle\caches\transforms-3\8812b6e5026a50ca0456fcceb3b5ae47\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\divya\.gradle\caches\transforms-3\196371dc27104a70095b580187efdc75\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\divya\.gradle\caches\transforms-3\196371dc27104a70095b580187efdc75\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\1f8bdb0cb384620f178f760cb8a1b734\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\1f8bdb0cb384620f178f760cb8a1b734\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\1494b420f08e028d82faecdc3e54464e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\1494b420f08e028d82faecdc3e54464e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\11e6763d855ea113a94cb61ec64dadc5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\11e6763d855ea113a94cb61ec64dadc5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\68cc32098dbbdb9f4dc6684bbcea6288\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\68cc32098dbbdb9f4dc6684bbcea6288\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\30a0adef799ec6ba5428fbc5a1704dfc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\30a0adef799ec6ba5428fbc5a1704dfc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\626b3230835e0af0b4edbb5f5cb2385e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\626b3230835e0af0b4edbb5f5cb2385e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\ad57daf120b21b07fb8b3fb05f99390b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\divya\.gradle\caches\transforms-3\ad57daf120b21b07fb8b3fb05f99390b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\925e79b8a2a665b7ccfc977801e0807e\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\divya\.gradle\caches\transforms-3\925e79b8a2a665b7ccfc977801e0807e\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\285bd38a18d0d25a1c639a414b959029\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\285bd38a18d0d25a1c639a414b959029\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\8ece757a6792c77229d47eb8442f2e2c\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\8ece757a6792c77229d47eb8442f2e2c\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\divya\.gradle\caches\transforms-3\d94dd82e0b242407f63ae8c6d1cceeaf\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\divya\.gradle\caches\transforms-3\d94dd82e0b242407f63ae8c6d1cceeaf\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\9bbdb7be409d1978acd6f4c567be0f87\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\9bbdb7be409d1978acd6f4c567be0f87\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\dfd97f5956e1c6dd830d7d50e76c530a\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\dfd97f5956e1c6dd830d7d50e76c530a\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\divya\.gradle\caches\transforms-3\7e7a67c122cb1b5429a0d3f489a7f6f0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\divya\.gradle\caches\transforms-3\7e7a67c122cb1b5429a0d3f489a7f6f0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\ebdfdfd01a0728f5d853117da0482549\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\ebdfdfd01a0728f5d853117da0482549\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\ffed7d58ae27d5bd21c48d3dcb7da873\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\ffed7d58ae27d5bd21c48d3dcb7da873\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\046a40bdc71e55b9f2e8b060bbb8d1b8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\046a40bdc71e55b9f2e8b060bbb8d1b8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\divya\.gradle\caches\transforms-3\b069f3a41b20eb8df370a8162656eb64\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\divya\.gradle\caches\transforms-3\b069f3a41b20eb8df370a8162656eb64\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\fb6141453cad82db28b75a661bb4b90f\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\divya\.gradle\caches\transforms-3\fb6141453cad82db28b75a661bb4b90f\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\divya\.gradle\caches\transforms-3\602dcd6aa6c8e5ab3be279103a0b1b86\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\divya\.gradle\caches\transforms-3\602dcd6aa6c8e5ab3be279103a0b1b86\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\25a964044c7c70d19251f6aa03276cdc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\25a964044c7c70d19251f6aa03276cdc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\6d30b203bf43f730774d3566aca543cb\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\6d30b203bf43f730774d3566aca543cb\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\d5c54bc7d1d64fadf73a91c4e08b401a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\d5c54bc7d1d64fadf73a91c4e08b401a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\17e7f8acd0cdf5808b682f61e60b47d6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\17e7f8acd0cdf5808b682f61e60b47d6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\df27f5cc982dffdcb2943c11b404ee00\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\df27f5cc982dffdcb2943c11b404ee00\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\divya\.gradle\caches\transforms-3\9d43826721d3dfe00cc04ff2f307615c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\divya\.gradle\caches\transforms-3\9d43826721d3dfe00cc04ff2f307615c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\divya\.gradle\caches\transforms-3\205b34abde06a8094622335ee81c30ec\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\divya\.gradle\caches\transforms-3\205b34abde06a8094622335ee81c30ec\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\4828cd4ce008a8538823ecb989c85907\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\divya\.gradle\caches\transforms-3\4828cd4ce008a8538823ecb989c85907\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\divya\.gradle\caches\transforms-3\c0476908161d84701517d296fd794cce\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\divya\.gradle\caches\transforms-3\c0476908161d84701517d296fd794cce\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\a5bbd47b77a09c974661eec75115b594\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\a5bbd47b77a09c974661eec75115b594\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\2d4b662368b383316e16208711956a86\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\2d4b662368b383316e16208711956a86\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\divya\.gradle\caches\transforms-3\adca9536d5840f50ab36bbe837512d2c\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\divya\.gradle\caches\transforms-3\adca9536d5840f50ab36bbe837512d2c\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\65f6192325b83c0c4998ce4dc8d70469\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\65f6192325b83c0c4998ce4dc8d70469\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:12:17-116
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:15:17-126
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:15:17-113
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\divya\.gradle\caches\transforms-3\a5ea941d486705a750b5a99827e75b76\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\divya\.gradle\caches\transforms-3\a5ea941d486705a750b5a99827e75b76\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\divya\.gradle\caches\transforms-3\a5ea941d486705a750b5a99827e75b76\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\divya\.gradle\caches\transforms-3\a5ea941d486705a750b5a99827e75b76\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\divya\.gradle\caches\transforms-3\adca9536d5840f50ab36bbe837512d2c\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\divya\.gradle\caches\transforms-3\adca9536d5840f50ab36bbe837512d2c\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:70:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:20:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\b705ef323ed73cbb1e2b0e0d2d7608e6\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\divya\.gradle\caches\transforms-3\b705ef323ed73cbb1e2b0e0d2d7608e6\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\871d90372a8a8858e6fd645536724cbc\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\b013e388869f835d1cf5e3983d498089\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\25a964044c7c70d19251f6aa03276cdc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\divya\.gradle\caches\transforms-3\25a964044c7c70d19251f6aa03276cdc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.newsplatform.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.newsplatform.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

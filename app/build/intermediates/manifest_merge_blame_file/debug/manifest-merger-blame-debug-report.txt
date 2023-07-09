@@ -1,0 +1,333 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.newsplatform"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:5-67
+11-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:5-79
+12-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+14-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+14-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+16
+17    <permission
+17-->[androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+18        android:name="com.example.newsplatform.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.example.newsplatform.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:5:5-27:19
+24        android:allowBackup="true"
+24-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:6:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.10.1] C:\Users\divya\.gradle\caches\transforms-3\5655c64fbbcadb6a6d15484ff2b8e908\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:7:9-65
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:8:9-54
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:9:9-43
+31        android:label="@string/app_name"
+31-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:10:9-41
+32        android:supportsRtl="true"
+32-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:11:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.NewsPlatform" >
+34-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:12:9-50
+35        <activity
+35-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:14:9-22:20
+36            android:name="com.example.newsplatform.SignInActivity"
+36-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:15:13-43
+37            android:exported="true" >
+37-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:16:13-36
+38            <intent-filter>
+38-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:17:13-21:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:18:17-69
+39-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:18:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:20:17-77
+41-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:20:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:23:9-26:20
+45            android:name="com.example.newsplatform.MainActivity"
+45-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:24:13-41
+46            android:exported="true" >
+46-->C:\Users\divya\AndroidStudioProjects\NewsPlatform\app\src\main\AndroidManifest.xml:25:13-36
+47        </activity>
+48
+49        <service
+49-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:8:9-14:19
+50            android:name="com.google.firebase.components.ComponentDiscoveryService"
+50-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:9:13-84
+51            android:directBootAware="true"
+51-->[com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+52            android:exported="false" >
+52-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:10:13-37
+53            <meta-data
+53-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:11:13-13:85
+54                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+54-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:12:17-116
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\32efc9158316a2f67d324006d2a3457b\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:13:17-82
+56            <meta-data
+56-->[com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:14:13-16:85
+57                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar"
+57-->[com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:15:17-126
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[com.google.firebase:firebase-firestore-ktx:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\0c820fc0ebfb52c72c6e0a2c00601e34\transformed\firebase-firestore-ktx-24.6.1\AndroidManifest.xml:16:17-82
+59            <meta-data
+59-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
+60                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+60-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:12:17-126
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\9732a4c0195265ed53e612c51ee0e878\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:13:17-82
+62            <meta-data
+62-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:14:13-16:85
+63                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+63-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:15:17-113
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\eca8dfcd1d01b7adf094921b26995274\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:16:17-82
+65            <meta-data
+65-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:69:13-71:85
+66                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+66-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:70:17-109
+67                android:value="com.google.firebase.components.ComponentRegistrar" />
+67-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:71:17-82
+68            <meta-data
+68-->[com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:19:13-21:85
+69                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+69-->[com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:20:17-111
+70                android:value="com.google.firebase.components.ComponentRegistrar" />
+70-->[com.google.firebase:firebase-firestore:24.6.1] C:\Users\divya\.gradle\caches\transforms-3\e852e2defc49c6b50fc1adc91b91cc43\transformed\firebase-firestore-24.6.1\AndroidManifest.xml:21:17-82
+71            <meta-data
+71-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+72                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+72-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\e1003553430360e07efd69f94f337df4\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+74            <meta-data
+74-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:17:13-19:85
+75                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+75-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:18:17-127
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\divya\.gradle\caches\transforms-3\11543f7d985f635013d7bd0f51c66412\transformed\firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
+77        </service>
+78
+79        <activity
+79-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:29:9-46:20
+80            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+80-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:30:13-80
+81            android:excludeFromRecents="true"
+81-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:31:13-46
+82            android:exported="true"
+82-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:32:13-36
+83            android:launchMode="singleTask"
+83-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:33:13-44
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+84-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:34:13-72
+85            <intent-filter>
+85-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:35:13-45:29
+86                <action android:name="android.intent.action.VIEW" />
+86-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:17-69
+86-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:25-66
+87
+88                <category android:name="android.intent.category.DEFAULT" />
+88-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:17-76
+88-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:27-73
+89                <category android:name="android.intent.category.BROWSABLE" />
+89-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:17-78
+89-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
+90
+91                <data
+91-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:41:17-44:51
+92                    android:host="firebase.auth"
+92-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:42:21-49
+93                    android:path="/"
+93-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:43:21-37
+94                    android:scheme="genericidp" />
+94-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:44:21-48
+95            </intent-filter>
+96        </activity>
+97        <activity
+97-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:47:9-64:20
+98            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+98-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:48:13-79
+99            android:excludeFromRecents="true"
+99-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:49:13-46
+100            android:exported="true"
+100-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:50:13-36
+101            android:launchMode="singleTask"
+101-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:51:13-44
+102            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+102-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:52:13-72
+103            <intent-filter>
+103-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:53:13-63:29
+104                <action android:name="android.intent.action.VIEW" />
+104-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:17-69
+104-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:25-66
+105
+106                <category android:name="android.intent.category.DEFAULT" />
+106-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:17-76
+106-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:27-73
+107                <category android:name="android.intent.category.BROWSABLE" />
+107-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:17-78
+107-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
+108
+109                <data
+109-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:41:17-44:51
+110                    android:host="firebase.auth"
+110-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:42:21-49
+111                    android:path="/"
+111-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:43:21-37
+112                    android:scheme="recaptcha" />
+112-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\divya\.gradle\caches\transforms-3\736674a21e236a5531c417bfdddce0ac\transformed\firebase-auth-22.0.0\AndroidManifest.xml:44:21-48
+113            </intent-filter>
+114        </activity>
+115        <activity
+115-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:23:9-27:75
+116            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+116-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:24:13-93
+117            android:excludeFromRecents="true"
+117-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:25:13-46
+118            android:exported="false"
+118-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:26:13-37
+119            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+119-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:27:13-72
+120        <!--
+121            Service handling Google Sign-In user revocation. For apps that do not integrate with
+122            Google Sign-In, this service will never be started.
+123        -->
+124        <service
+124-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:33:9-37:51
+125            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+125-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:34:13-89
+126            android:exported="true"
+126-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:35:13-36
+127            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+127-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:36:13-107
+128            android:visibleToInstantApps="true" />
+128-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\divya\.gradle\caches\transforms-3\c93b571be303d4147d92cd72ccdb2e9a\transformed\play-services-auth-20.6.0\AndroidManifest.xml:37:13-48
+129
+130        <activity
+130-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+131            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+131-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+132            android:exported="false"
+132-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+133            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+133-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\divya\.gradle\caches\transforms-3\d2be9a3f25f7706ce6f40632c0789585\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+134
+135        <provider
+135-->[com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+136            android:name="com.google.firebase.provider.FirebaseInitProvider"
+136-->[com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+137            android:authorities="com.example.newsplatform.firebaseinitprovider"
+137-->[com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+138            android:directBootAware="true"
+138-->[com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+139            android:exported="false"
+139-->[com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+140            android:initOrder="100" />
+140-->[com.google.firebase:firebase-common:20.3.3] C:\Users\divya\.gradle\caches\transforms-3\400e59af055dd863f7672f0e8226d86a\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+141
+142        <receiver
+142-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+143            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+143-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+144            android:enabled="true"
+144-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+145            android:exported="false" >
+145-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+146        </receiver>
+147
+148        <service
+148-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+149            android:name="com.google.android.gms.measurement.AppMeasurementService"
+149-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+150            android:enabled="true"
+150-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+151            android:exported="false" />
+151-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+152        <service
+152-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+153            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+153-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+154            android:enabled="true"
+154-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+155            android:exported="false"
+155-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+156            android:permission="android.permission.BIND_JOB_SERVICE" />
+156-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\divya\.gradle\caches\transforms-3\be9b5f3ae9202a37afbeae61c030e12c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+157
+158        <meta-data
+158-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+159            android:name="com.google.android.gms.version"
+159-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+160            android:value="@integer/google_play_services_version" />
+160-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\divya\.gradle\caches\transforms-3\b9a461f7d072f45d9a958dcb9f6e5328\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+161
+162        <uses-library
+162-->[androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+163            android:name="androidx.window.extensions"
+163-->[androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+164            android:required="false" />
+164-->[androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+165        <uses-library
+165-->[androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+166            android:name="androidx.window.sidecar"
+166-->[androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+167            android:required="false" />
+167-->[androidx.window:window:1.0.0] C:\Users\divya\.gradle\caches\transforms-3\0e5f7b6995e4215b0f6097f30268c713\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+168
+169        <provider
+169-->[androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+170            android:name="androidx.startup.InitializationProvider"
+170-->[androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+171            android:authorities="com.example.newsplatform.androidx-startup"
+171-->[androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+172            android:exported="false" >
+172-->[androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+173            <meta-data
+173-->[androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+174                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+174-->[androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+175                android:value="androidx.startup" />
+175-->[androidx.emoji2:emoji2:1.2.0] C:\Users\divya\.gradle\caches\transforms-3\711536028a1e53980d03f81b3f766769\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+176            <meta-data
+176-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+177                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+177-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+178                android:value="androidx.startup" />
+178-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\divya\.gradle\caches\transforms-3\5dd9f2896c464a43036f2149ea900ff3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+179        </provider>
+180    </application>
+181
+182</manifest>
